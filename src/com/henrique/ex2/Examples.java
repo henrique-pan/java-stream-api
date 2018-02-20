@@ -1,7 +1,5 @@
 package com.henrique.ex2;
 
-import com.henrique.ex.Person;
-
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
